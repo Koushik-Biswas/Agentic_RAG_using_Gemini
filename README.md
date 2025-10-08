@@ -107,5 +107,4 @@ If you prefer not to maintain a secrets file during local development, set envir
 - README captures setup, configuration, and feature overview
 
 ## 📄 License
-
-This project inherits the license terms of its dependencies. Add a dedicated license file if you plan to distribute or open source the application.
+All Rights Reserved to Koushik Biswas@2025.
