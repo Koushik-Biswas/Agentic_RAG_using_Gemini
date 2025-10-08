@@ -94,6 +94,8 @@ All runtime credentials are managed from the Streamlit sidebar:
    - These values load automatically into the sidebar when the app starts.
 5. Deploy. The app will spin up with the latest commits; you can redeploy anytime by pushing to the tracked branch.
 
+<img width="1830" height="920" alt="image" src="https://github.com/user-attachments/assets/00b542dd-625d-4d03-9d01-2dad7d3953c5" />
+
 ### Local secrets during development
 
 Create a `.streamlit/secrets.toml` file (ignored by git) with the same TOML structure above to prefill keys when running `streamlit run` locally.
