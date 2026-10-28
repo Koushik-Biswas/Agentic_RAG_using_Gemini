@@ -109,4 +109,6 @@ If you prefer not to maintain a secrets file during local development, set envir
 - README captures setup, configuration, and feature overview
 
 ## 📄 License
-All Rights Reserved to Koushik Biswas@2025.
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2025-2026 Koushik Biswas.
